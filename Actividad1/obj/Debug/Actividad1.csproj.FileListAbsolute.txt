@@ -1,0 +1,12 @@
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\bin\Debug\Vuelos.dll
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.AssemblyReference.cache
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Form1.resources
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Properties.Resources.resources
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.GenerateResource.cache
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CopyComplete
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\Atenea\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
